@@ -5,7 +5,7 @@ var max = parseInt(
 
 var anterior = 1;
 var actual = 1;
-//Tip: Como los primeros dos valores no son operados, es buena idea mostrarlos desde el comienzo
+//Tip: Como los primeros tres valores no son operados, es buena idea mostrarlos desde el comienzo
 console.log("f0) 0");
 console.log("f1) 1");
 console.log("f2) 1");
